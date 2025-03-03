@@ -134,7 +134,7 @@ if ( ! class_exists( 'Yikes_Woo_Custom_Product_Tabs_HTML' ) ) {
 		protected function display_yikes_how_to() {
 			$return_html = '';
 			$return_html .= '<div class="yikes-woo-tabs-hidden-how-to-info">';
-			$return_html .= '<p class="yikes_woo_how_to_info">' . __( "For help using Custom Tabs please visit our <a href='https://yikesplugins.com/support/knowledge-base/product/easy-custom-product-tabs-for-woocommerce/' target='_blank'>Knowledge Base</a>" , 'yikes-inc-easy-custom-woocommerce-product-tabs' ) . '</p>';
+			$return_html .= '<p class="yikes_woo_how_to_info">' . __( "For help using Custom Tabs please visit our <a href='https://github.com/EasyTabs-Team/yikes-inc-easy-custom-woocommerce-product-tabs/wiki' target='_blank'>Knowledge Base</a>" , 'yikes-inc-easy-custom-woocommerce-product-tabs' ) . '</p>';
 			$return_html .= '</div>';
 			$return_html .= '<div id="yikes-woo-help-me-icon" class="dashicons dashicons-editor-help yikes-tabs-how-to-toggle" title="' . __( "Help Me!" , 'yikes-inc-easy-custom-woocommerce-product-tabs' ) . '"></div>';
 

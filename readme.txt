@@ -1,6 +1,6 @@
 === Custom Product Tabs for WooCommerce  ===
 Contributors: yikesinc, eherman24, liljimmi, yikesitskevin, metalandcoffee, mialevesque, codeparrots
-Donate link: https://codeparrots.com
+Donate link: https://github.com/EasyTabs-Team
 Tags: woocommerce, product tabs, repeatable, duplicate, customize, custom, tabs, product, woo, commerce
 Requires at least: 3.8
 Tested up to: 6.4
@@ -22,8 +22,6 @@ If you experience any problems, please submit a ticket on our [Free WordPress Su
 
 This plugin is compatible with WPML.
 
-Upgrade to [Custom Product Tabs Pro](https://codeparrots.com/plugin/custom-product-tabs-pro/) for great enhanced features!
-
 == Installation ==
 
 1. Download the plugin .zip file and make note of where on your computer you downloaded it to.
@@ -43,7 +41,7 @@ Upgrade to [Custom Product Tabs Pro](https://codeparrots.com/plugin/custom-produ
 
 == Frequently Asked Questions ==
 
-**All documentation can be found in [our Knowledge Base](https://codeparrots.com/support/knowledge-base/product/easy-custom-product-tabs-for-woocommerce/).**
+**All documentation can be found in [our Wiki](https://github.com/EasyTabs-Team/yikes-inc-easy-custom-woocommerce-product-tabs/wiki).**
 
 = Where do I go to add tabs to a product? =
 When editing a product in WooCommerce, you will find "Custom Tabs" in the bottom left corner of the Product Data box. Click on "Custom Tabs" to reveal the custom tab manager.

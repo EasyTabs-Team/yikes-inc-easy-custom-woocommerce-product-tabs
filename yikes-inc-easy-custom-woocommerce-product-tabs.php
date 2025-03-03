@@ -1,10 +1,10 @@
 <?php
 /**
  * Plugin Name: Custom Product Tabs for WooCommerce
- * Plugin URI: https://www.codeparrots.com
+ * Plugin URI: https://github.com/EasyTabs-Team/yikes-inc-easy-custom-woocommerce-product-tabs
  * Description: Extend WooCommerce to add and manage custom product tabs. Create as many product tabs as needed per product.
- * Author: Code Parrots
- * Author URI: https://www.codeparrots.com
+ * Author: EasyTabs-Team
+ * Author URI: https://github.com/EasyTabs-Team
  * Version: 1.8.6
  * Text Domain: yikes-inc-easy-custom-woocommerce-product-tabs
  * Domain Path: languages/
@@ -314,7 +314,7 @@ class YIKES_Custom_Product_Tabs {
 	 */
 	public function add_plugin_action_links( $links ) {
 		$href     = add_query_arg( array( 'page' => YIKES_Custom_Product_Tabs_Settings_Page ), admin_url( 'admin.php' ) );
-		$docs_url = 'https://yikesplugins.com/article-category/custom-product-tabs-for-woocommerce/';
+		$docs_url = 'https://github.com/EasyTabs-Team/yikes-inc-easy-custom-woocommerce-product-tabs/wiki';
 
 		$links[] = '<a href="' . esc_url_raw( $href ) . '">' . esc_html__( 'Saved Tabs', 'yikes-inc-easy-custom-woocommerce-product-tabs' ) . '</a>';
 		$links[] = '<a href="' . esc_url_raw( $docs_url ) . '" target="_blank">' . esc_html__( 'Documentation', 'yikes-inc-easy-custom-woocommerce-product-tabs' ) . '</a>';

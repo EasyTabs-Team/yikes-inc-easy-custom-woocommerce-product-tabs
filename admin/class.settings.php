@@ -153,7 +153,7 @@ class YIKES_Custom_Product_Tabs_Settings {
 					<input id="yikes-woo-toggle-content-input" type="checkbox" name="yikes-the-content-toggle" id="yikes-the-content-toggle" <?php checked( 'true' === $toggle_the_content ); ?> />
 				</label>
 				<p>
-				<a id="yikes-woo-toggle-content" class="button button-primary" href="https://yikesplugins.com/plugin/custom-product-tabs-pro/" target="_blank">
+				<a id="yikes-woo-toggle-content" class="button button-primary" href="https://github.com/EasyTabs-Team/yikes-inc-easy-custom-woocommerce-product-tabs" target="_blank">
 					<?php _e( 'Save Settings', 'yikes-inc-easy-custom-woocommerce-product-tabs' ); ?>
 				</a>
 			</div><!-- .yikes-woo-buy-us-body -->
