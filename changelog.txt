@@ -116,7 +116,7 @@
 * Added support for native WooCommerce exporting. You can now export and import your tabs with just WooCommerce!
 * Fixed some styling issues
 * Added a new "Support" page
-* Added a new "Go Pro" page - check out [Custom Product Tabs Pro](https://yikesplugins.com/plugin/custom-product-tabs-pro/)
+* Added a new "Go Pro" page - check out [Custom Product Tabs Pro]()
 
 = 1.6.0 - October 9th, 2017 =
 * Complete re-organization of all plugin files and removal of legacy code

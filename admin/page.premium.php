@@ -9,7 +9,7 @@
 	<div class="cptpro-settings cptpro-settings-pro-container">
 
 		<p>
-			<a class="button button-primary" href="https://yikesplugins.com/plugin/custom-product-tabs-pro/" target="_blank">
+			<a class="button button-primary" href="https://github.com/EasyTabs-Team/yikes-inc-easy-custom-woocommerce-product-tabs" target="_blank">
 				<?php _e( 'Upgrade to Pro', 'yikes-inc-easy-custom-woocommerce-product-tabs' ); ?>
 			</a>
 		</p>
@@ -17,7 +17,7 @@
 		<p>
 			<?php 
 				echo sprintf( __( 'Upgrade to %1sCustom Product Tabs Pro%2s for complete control of Tabs and enhanced features.', 'yikes-inc-easy-custom-woocommerce-product-tabs'  ), 
-					'<a href="https://yikesplugins.com/plugin/custom-product-tabs-pro/" target="_blank">', '</a>' ); 
+					'<a href="https://github.com/EasyTabs-Team/yikes-inc-easy-custom-woocommerce-product-tabs" target="_blank">', '</a>' ); 
 			?>
 		</p>
 

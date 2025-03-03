@@ -69,9 +69,8 @@
 					<p>
 						<?php
 						printf(
-							/* translators: %s is a link to the knowledge base. */
 							esc_html__( 'Before submitting a support request, please visit our %s where we have step-by-step guides and troubleshooting help.', 'yikes-inc-easy-custom-woocommerce-product-tabs' ),
-							'<a href="https://yikesplugins.com/support/knowledge-base/product/easy-custom-product-tabs-for-woocommerce/" target="_blank">' . esc_html__( 'Knowledge Base', 'yikes-inc-easy-custom-woocommerce-product-tabs' ) . '</a>'
+							'<a href="https://github.com/EasyTabs-Team/yikes-inc-easy-custom-woocommerce-product-tabs/wiki" target="_blank">' . esc_html__( 'Knowledge Base', 'yikes-inc-easy-custom-woocommerce-product-tabs' ) . '</a>'
 						);
 						?>
 					</p>
@@ -79,9 +78,8 @@
 					<p>
 						<?php
 						printf(
-							/* translators: %s is a link to the https://yikesplugins.com/plugin/custom-product-tabs-pro/. */
 							esc_html__( 'Custom Product Tabs Pro users qualify for premium support. Check out %s!', 'yikes-inc-easy-custom-woocommerce-product-tabs' ),
-							'<a href="https://yikesplugins.com/plugin/custom-product-tabs-pro/" target="_blank">' . esc_html__( 'Custom Product Tabs Pro', 'yikes-inc-easy-custom-woocommerce-product-tabs' ) . '</a>'
+							'<a href="https://github.com/EasyTabs-Team/yikes-inc-easy-custom-woocommerce-product-tabs" target="_blank">' . esc_html__( 'Custom Product Tabs Pro', 'yikes-inc-easy-custom-woocommerce-product-tabs' ) . '</a>'
 						);
 						?>
 					</p>
@@ -95,7 +93,6 @@
 					<p>
 						<?php
 						printf(
-							/* translators: %s is a link to the the WordPress.org support forums. */
 							esc_html__( 'If you need help with free Custom Product Tabs, please post questions to %ss. We aim to respond to support requests within a week.', 'yikes-inc-easy-custom-woocommerce-product-tabs' ),
 							'<a href="https://wordpress.org/support/plugin/yikes-inc-easy-custom-woocommerce-product-tabs#new-post" target="_blank">' . esc_html__( 'our support forum on the WordPress Plugin Directory', 'yikes-inc-easy-custom-woocommerce-product-tabs' ) . '</a>'
 						);

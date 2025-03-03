@@ -101,11 +101,10 @@ class YIKES_Custom_Product_Tabs_Premium {
 						<?php
 						printf(
 							wp_kses_post(
-								/* translators: %1$s is html markup for a heart icon. %2$s is an anchor tag (link) to https://codeparrots.com. */
 								__( 'This plugin made with %1$s by %2$s', 'yikes-inc-easy-custom-woocommerce-product-tabs' )
 							),
 							'<span class="dashicons dashicons-heart yikes-love"></span>',
-							'<a href="https://www.codeparrots.com" target="_blank" title="Code Parrots">Code Parrots</a>'
+							'<a href="https://github.com/EasyTabs-Team" target="_blank" title="EasyTabs-Team">EasyTabs-Team</a>'
 						);
 						?>
 					</p>
@@ -117,7 +116,7 @@ class YIKES_Custom_Product_Tabs_Premium {
 				<div class="yikes-woo-buy-us-body">
 					<h4><?php _e( 'Check out Custom Product Tabs Pro!', 'yikes-inc-easy-custom-woocommerce-product-tabs' ); ?></h4>
 					<p><?php _e( 'Create global tabs, add tabs to products based on categories or tags, add tab content to search results, and more!', 'yikes-inc-easy-custom-woocommerce-product-tabs' ); ?></p>
-					<a class="button button-primary" href="https://yikesplugins.com/plugin/custom-product-tabs-pro/" target="_blank">
+					<a class="button button-primary" href="https://github.com/EasyTabs-Team/yikes-inc-easy-custom-woocommerce-product-tabs" target="_blank">
 						<?php _e( 'Custom Product Tabs Pro', 'yikes-inc-easy-custom-woocommerce-product-tabs' ); ?>
 					</a>
 				</div><!-- .yikes-woo-buy-us-body -->

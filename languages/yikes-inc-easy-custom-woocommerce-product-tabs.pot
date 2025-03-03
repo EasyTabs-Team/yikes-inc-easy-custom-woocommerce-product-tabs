@@ -172,9 +172,7 @@ msgstr ""
 #: admin/class.yikes-woo-generate-html.php:137
 #: build/yikes-inc-easy-custom-woocommerce-product-tabs/admin/class.yikes-woo-generate-html.php:137
 msgid ""
-"For help using Custom Tabs please visit our <a href='https://yikesplugins."
-"com/support/knowledge-base/product/easy-custom-product-tabs-for-"
-"woocommerce/' target='_blank'>Knowledge Base</a>"
+"For help using Custom Tabs please visit our <a href='https://github.com/EasyTabs-Team/yikes-inc-easy-custom-woocommerce-product-tabs/wiki' target='_blank'>Knowledge Base</a>"
 msgstr ""
 
 #: admin/class.yikes-woo-generate-html.php:139
