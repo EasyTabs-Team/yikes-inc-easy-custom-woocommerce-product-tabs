@@ -1,11 +1,5 @@
 # Custom Product Tabs for WooCommerce - Community Version
 
-![WordPress](https://img.shields.io/wordpress/plugin/dt/yikes-inc-easy-custom-woocommerce-product-tabs.svg)
-![Rating](https://img.shields.io/wordpress/plugin/r/yikes-inc-easy-custom-woocommerce-product-tabs.svg)
-![WordPress plugin](https://img.shields.io/wordpress/plugin/v/yikes-inc-easy-custom-woocommerce-product-tabs.svg)
-![WordPress](https://img.shields.io/wordpress/v/yikes-inc-easy-custom-woocommerce-product-tabs.svg)
-[![Test / E2E Runner](yikes-inc-easy-custom-woocommerce-product-tabs/actions/workflows/test-e2e.yml/badge.svg?branch=master&event=push)](yikes-inc-easy-custom-woocommerce-product-tabs/actions/workflows/test-e2e.yml)
-
 ![Custom Product Tabs for WooCommerce, Add custom tabs with content to products in WooCommerce.](/.wordpress-org/banner-1544x500.png)
 
 This plugin extends [WooCommerce](https://woocommerce.com) to allow shop owners to add custom tabs to products. The tabs are displayed on the individual product pages to the right of the default "Description" tab.
@@ -36,5 +30,5 @@ Need help? Please use the Discussion section.
 
 ### Credits
 
-This plugin is a Community fork of <a href="https://github.com/EasyTabs-Team/yikes-inc-easy-custom-woocommerce-product-tabs" target="_blank">, which was previouly maintained by EvanHerman.
-Originally a fork of <a href="https://wordpress.org/plugins/woocommerce-custom-product-tabs-lite/" target="_blank">SkyVerge WooCommerce Custom Product Tabs Lite</a>.
+This plugin is a Community fork of [Custom Product Tabs for WooCommerce](https://wordpress.org/plugins/yikes-inc-easy-custom-woocommerce-product-tabs/), previouly maintained by EvanHerman.  
+Originally a fork of [Custom Product Tabs Lite for WooCommerce](https://wordpress.org/plugins/woocommerce-custom-product-tabs-lite/) by SkyVerge.
